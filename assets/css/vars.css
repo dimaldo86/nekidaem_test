@@ -1,0 +1,10 @@
+:root {
+    --primary:#E6E6EB;
+    --secondary:#81adef;
+    --gray:#636369;
+    --danger: #eb1818;
+    --transition:all .4s ease-in;
+    --green:#0bde71;
+    --greenDark:#096937;
+
+}
